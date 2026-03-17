@@ -1,4 +1,4 @@
-# dm-companion
+# DMing
 
 An Electron application with React and TypeScript
 
